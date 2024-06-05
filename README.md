@@ -1,4 +1,3 @@
-# Davide Testi
 
 **Former QA at TikTok in the TECH team with MBA background and previous experience in business consulting. Proficient in Machine Learning & Data Engineering, with a certification from Université Paris 1 Panthéon-Sorbonne. Passionate about leveraging data-driven insights to support business decision-making and enhance organizational performance.**
 
