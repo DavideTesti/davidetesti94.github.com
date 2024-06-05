@@ -7,7 +7,11 @@
 - **Email:** [davide.testi94@gmail.com](mailto:davide.testi94@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/davide-testi/](https://www.linkedin.com/in/davide-testi/)
 - **Portfolio Project:** [https://github.com/DavideTesti/mlproject](https://github.com/DavideTesti/mlproject)
+- **Download my CV:** 
+  - [In English (PDF)](./assets/Davide_Testi_CV_EN.pdf)
+  - [In Italian (PDF)](./assets/Davide_Testi_CV_IT.pdf)
 
+    
 ## CORE COMPETENCES
 
 **IT skills:**
