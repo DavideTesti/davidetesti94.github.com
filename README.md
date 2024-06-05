@@ -20,7 +20,7 @@
 - Machine Learning: Classification, Regression, Clustering with Scikit-learn, Time series, Text mining, Dimension Reduction, MLflow  
 - Deep Learning: Computer Vision with OpenCV, Dense Neural Networks with Keras, Convolutional Neural Networks with Keras  
 - Data Engineering: SQL, FastAPI, Data Integration (ETL), PySpark  
-- MLOps: Agile Project Management, Streamlit, Docker, AWS
+- MLOps: Agile Project Management, Streamlit, Docker, AWS, Kubernetes, Airflow
 
 **Economics and Business Administration skills:**
 - Managerial: Team management, Project Management, Dashboarding. KPI development and tracking, Reporting to Stakeholders
