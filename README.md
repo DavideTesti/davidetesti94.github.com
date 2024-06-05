@@ -72,9 +72,9 @@
 ## LANGUAGES
 
 - Italian: Native
-- English: Fluent | C1/C2 | Full Professional 
-- German: Fluent | B2 | Living and working in Berlin 2.5 years
-- Spanish: Fluent | B2 | Living and Erasmus in Buenos Aires 8 months
+- English: Fluent  C1/C2  Full Professional 
+- German: Fluent  B2  Living and working in Berlin 2.5 years
+- Spanish: Fluent  B2  Living and Erasmus in Buenos Aires 8 months
 
 ## CERTIFICATIONS
 
