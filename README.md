@@ -1,9 +1,11 @@
-DAVIDE TESTI
-Verona, IT (+39) 349-3371272 • davide.testi94@gmail.com
-Linkedin : https://www.linkedin.com/in/davide-testi/
-[Publication] (https://github.com/DavideTesti/mlproject)
-
 Former QA at TikTok in the TECH team with MBA background and previous experience in business consulting. Proficient in Machine Learning & Data Engineering, with a certification from Université Paris 1 Panthéon-Sorbonne. Passionate about leveraging data-driven insights to support business decision-making and enhance organizational performance.
+  
+  location: Verona, IT
+  phone: (+39) 349-3371272
+  email: davide.testi94@gmail.com
+  linkedin: https://www.linkedin.com/in/davide-testi/
+  portfolio_project: https://github.com/DavideTesti/mlproject
+
 
 ### CORE COMPETENCES
 IT skills:
