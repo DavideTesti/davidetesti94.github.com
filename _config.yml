@@ -1,12 +1,12 @@
 title: Davide Testi
 logo: /assets/img/headshot_circle.png
-descriptions:
-  - "QA at TikTok in the TECH team with MBA background in business consulting."
-  - "Machine Learning & Data Engineering, pursuing certification from Université Paris 1 Panthéon-Sorbonne."
-  - "Skills: Python, ML, data analysis & cloud."
-  - "Location: Verona, IT."
-  - "Phone: (+39) 349-3371272."
-  - "Email: davide.testi94@gmail.com."
-  - "LinkedIn: https://www.linkedin.com/in/davide-testi/"
-  - "Portfolio Project Number.1: https://github.com/DavideTesti/mlproject"
+profile:
+  role: "QA at TikTok in the TECH team with MBA background in business consulting."
+  education: "Machine Learning & Data Engineering, pursuing certification from Université Paris 1 Panthéon-Sorbonne."
+  skills: "Python, ML, data analysis, DeOps & cloud."
+  location: "Verona, IT"
+  phone: "(+39) 349-3371272"
+  email: "davide.testi94@gmail.com"
+  linkedin: "https://www.linkedin.com/in/davide-testi/"
+  portfolio_project: "https://github.com/DavideTesti/mlproject"
 theme: jekyll-theme-minimal
