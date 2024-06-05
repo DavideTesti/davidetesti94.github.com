@@ -4,7 +4,7 @@ Please look at : https://www.linkedin.com/in/davide-testi/
 
 Former QA at TikTok in the TECH team with MBA background and previous experience in business consulting. Proficient in Machine Learning & Data Engineering, with a certification from Université Paris 1 Panthéon-Sorbonne. Passionate about leveraging data-driven insights to support business decision-making and enhance organizational performance.
 
-###CORE COMPETENCES
+### CORE COMPETENCES
 IT skills:
 •	Programming: Python, Numpy, Pandas 
 •	Data Visualization: Matplotlib, Seaborn, Tableau 
@@ -20,7 +20,7 @@ Soft Skills:
 •	Coworking: Teamworking, Problem Solving, Communication, Public Speaking, Supportive Leadership 
 
 
-###EXPERIENCE
+### EXPERIENCE
 TikTok gmbh | Berlin, GER	            11/2020-09/2023
 Quality Analyst TECH Team | Full remote
 •	I was a Quality Analyst belonging to the TECH team and therefore responsible for the analysis of the operating activities of my department (TnS). 
@@ -46,7 +46,7 @@ Consulente d’impresa pro-bono, Business Administration
 •	Voluntary took part to the university business incubator to help teams reviewing and editing their projects and reports.
 
 
-###EDUCATION
+### EDUCATION
 Université Paris 1 Panthéon-Sorbonne | FR
 Certification as Machine Learning Engineering after 5 months full time classes
 Università degli Studi di Padova | Padova, IT
@@ -57,19 +57,19 @@ Alma Mater Studiorum - Università di Bologna, Buenos Aires Campus | Buenos Aire
 Erasmus Program during the full first academic year
 
 
-###LANGUAGES
+### LANGUAGES
 •	Italian: Native
 •	English: Fluent | C1/C2 | Full Professional 
 •	German: Fluent | B2 | Living and working in Berlin 2.5 years
 •	Spanish: Fluent | B2 | Living and Erasmus in Buenos Aires 8 months
 
-###CERTIFICATIONS 
+### CERTIFICATIONS 
 ##Machine Learning and Data Engineering:
 SQL for Data Science • Python for Data Science • Object Oriented Programming with Python • Exploratory Statistics with Python • Data Visualization with Seaborn • Data Visualization with Matplotlib • Data Quality  • Scikit-learn • Regression with scikit-learn • Clustering with scikit-learn • Bash and Linux • Advanced Classification with scikit-learn • Time Series Analysis with Python • Text Mining with Python • Dimensionality Reduction with scikit-learn • Dense Neural Networks with Keras • Convolutional Neural Networks with Keras •
 Data API Fundamentals •  Docker
 
 
-##Excel:
+## Excel:
 •	Excel 1 - Excel Essential Training (Office 365/Microsoft 365) - Certified by National Association of State Boards of Accountancy (NASBA)
 •	Excel 2 - Excel: Advanced Formulas and Functions - Certified by National Association of State Boards of Accountancy (NASBA)
 •	Excel 3 - Excel: Advanced Formatting Techniques (365/2019)
@@ -80,7 +80,7 @@ Data API Fundamentals •  Docker
 •	Excel 8 - Cert Prep: Excel Expert - Microsoft Office Specialist for Office 2019 and Office 365
 •	Excel 9 - Certificate of Completion: Master Microsoft Excel Learning Path
 
-##SQL:
+## SQL:
 •	SQL 1 - SQL Essential
 •	SQL 2 - Learning SQL Programming - Certified by National Association of State Boards of Accountancy (NASBA)
 •	SQL 3 - SQL: Data Reporting and Analysis
@@ -89,13 +89,13 @@ Data API Fundamentals •  Docker
 •	SQL 6 - Presto Essentials: Data Science ( SQL )
 •	SQL 7 - Certificate of Completion: Master SQL for Data Science Learning Path
 
-##Data Analyst:
+## Data Analyst:
 •	Data Analyst 1 - Learning Data Analytics - Certified by National Association of State Boards of Accountancy (NASBA)
 •	Data Analyst 2 - Data Fluency: Exploring and Describing Data
 •	Data Analyst 3 - Excel Statistics Essential Training ( Part 1 ) - Certified by National Association of State Boards of Accountancy (NASBA)
 •	Data Analyst 4 - Learning Excel: Data Analysis - Certified by National Association of State Boards of Accountancy (NASBA)
 
-##PowerPoint:
+## PowerPoint:
 •	PP 1 - PowerPoint Essential Training (Office 365/Microsoft 365)
 •	PP 2 - PowerPoint: Designing Better Slides
 •	PP 3 - PowerPoint 2016: Tips and Tricks - Certified by National Association of State Boards of Accountancy (NASBA)
